@@ -24,7 +24,7 @@ products = []
 
 product_search = "raspberry pi 2gb"
 
-for page in range(1, 2):
+for page in range(1, 50):
 
     print(f'reading page {page}...')
 
